@@ -1,0 +1,11 @@
+
+Enter two numbers to multiply: 
+Both must be less than 16
+Enter A: 11
+Enter B: 13
+Expected product = 143
+
+Binary Equivalents are: 
+A = 01011
+B = 01101
+B'+ 1 = 10011
